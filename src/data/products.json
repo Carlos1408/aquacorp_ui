@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Botellon de agua",
+    "price": "45 Bs",
+    "description": "Lorem ipsum dolor sit amet. Est perspiciatis quia qui assumenda internos est velit sunt eum cupiditate dolor qui rerum voluptates ad reprehenderit omnis. Et commodi voluptatem quo similique dolorem et omnis magnam ad dolorem totam sed mollitia pariatur est consequatur labore sed numquam repellat. Ut quos eius non adipisci numquam rem tempora itaque aut corporis fugit.",
+    "image_url" : "botellon"
+  },
+  {
+    "id": 1,
+    "name": "Sifon",
+    "price": "10 Bs",
+    "description": "Lorem ipsum dolor sit amet. Est perspiciatis quia qui assumenda internos est velit sunt eum cupiditate dolor qui rerum voluptates ad reprehenderit omnis. Et commodi voluptatem quo similique dolorem et omnis magnam ad dolorem totam sed mollitia pariatur est consequatur labore sed numquam repellat. Ut quos eius non adipisci numquam rem tempora itaque aut corporis fugit.",
+    "image_url" : "sifon"
+  },
+  {
+    "id": 2,
+    "name": "Dispensador",
+    "price": "20 Bs",
+    "description": "Lorem ipsum dolor sit amet. Est perspiciatis quia qui assumenda internos est velit sunt eum cupiditate dolor qui rerum voluptates ad reprehenderit omnis. Et commodi voluptatem quo similique dolorem et omnis magnam ad dolorem totam sed mollitia pariatur est consequatur labore sed numquam repellat. Ut quos eius non adipisci numquam rem tempora itaque aut corporis fugit.",
+    "image_url" : "dispensador"
+  }
+]

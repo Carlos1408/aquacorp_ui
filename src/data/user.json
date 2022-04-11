@@ -1,0 +1,8 @@
+{
+    "id" : 0,
+    "name" : "Elon",
+    "lastname" : "Musk",
+    "email" : "elonMusk@gmail.com",
+    "password" : "1234567890",
+    "address" : "EEUU"
+}
