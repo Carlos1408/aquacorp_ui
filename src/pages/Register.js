@@ -1,6 +1,6 @@
 export default function Profile() {
   return (
-    <div className="container-sm pt-4">
+    <div className="container-sm py-4">
       <div>
         <h1>Registro de usuario</h1>
       </div>
@@ -68,9 +68,12 @@ export default function Profile() {
             id="exampleInputPassword2"
           />
         </div>
-        <div class="d-grid gap-1">
+        <div class="d-grid gap-2">
           <button class="btn btn-primary" type="button">
             Enviar
+          </button>
+          <button class="btn btn-danger" type="reset">
+            Cancelar
           </button>
         </div>
       </form>
