@@ -1,11 +1,11 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 
-import Home from './components/home/Home';
-import Cart from './components/cart/Cart';
-import Profile from './components/profile/Profile';
-import Shop from './components/shop/Shop';
-import Register from './components/register/Register';
-import Login from './components/login/Login';
+import Home from './pages/Home';
+import Cart from './pages/Cart';
+import Profile from './pages/Profile';
+import Shop from './pages/Shop';
+import Register from './pages/Register';
+import Login from './pages/Login';
 
 function App() {
   return (
