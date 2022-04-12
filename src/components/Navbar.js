@@ -1,10 +1,15 @@
 import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
+import logo from '../assets/logo.png'
 
 export default function () {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container-fluid">
-        <h1 className="navbar-brand">Aquacorp</h1>
+        <Link to="/" className="navbar-brand">
+          <img src={logo} width="40" height="40" className="d-inline-block alight-text-top" />
+          AquaCorp
+        </Link>
         <button
           className="navbar-toggler"
           type="button"

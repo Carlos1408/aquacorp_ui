@@ -1,10 +1,10 @@
 export default function Profile() {
   return (
-    <div className="container-sm py-4">
+    <div className="container py-4">
       <div>
         <h1>Registro de usuario</h1>
       </div>
-      <form>
+      <form className="card card-body bg-light">
 
         <div className="mb-3">
           <label for="name" className="form-label">
